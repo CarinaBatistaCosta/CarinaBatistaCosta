@@ -4,6 +4,8 @@
 
 ![Carina GitHub stats](https://github-readme-stats.vercel.app/api?username=Carina&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarinaBatistaCosta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tecnologias eu utilizo no meu dia a dia 
 
 <div style ="display: inline_block"><br/>
@@ -11,12 +13,10 @@
     <img align="center"alt="Flask" src ="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
     <img align="center"alt="SQLlite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
     <img align="center"alt="MySQL" src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</div> <br>
+</div><br/>
 
+Sou apaixonada pela tecnologia atualmente estudado Banco de Dados na Faculdade Impacta de Tecnologia.
 
-Sou apaixonada pela tecnologia atualmente estudo o  curso de Banco de Dados na Faculdade Impacta de Tecnologia.
-
-Caso,queira entar encontato comigo por e-mail:
+Caso,queira entrar em contato por e-mail:
 
 Carinabatista365@gmail.com
-
